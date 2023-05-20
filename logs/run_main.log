@@ -1,0 +1,22 @@
+2023-05-20 09:39:16:INFO:DAX40 constituents loaded successfully
+2023-05-20 09:39:54:INFO:DAX40 constituents loaded successfully
+2023-05-20 09:42:37:INFO:Uniques sectors replaced with "other"
+2023-05-20 09:52:35:WARNING:Non-existent ticker ADS.DEE or no data for given time interval
+2023-05-20 09:52:39:WARNING:Non-existent ticker BAYN.DEE or no data for given time interval
+2023-05-20 10:06:55:INFO:Successfully downloaded stocks ['ADS.DE', 'AIR.DE', 'ALV.DE', 'BAS.DE', 'BAYN.DE', 'BEI.DE', 'BMW.DE', 'BNR.DE', 'CBK.DE', 'CON.DE', '1COV.DE', 'DTG.DE', 'DBK.DE', 'DB1.DE', 'DPW.DE', 'DTE.DE', 'EOAN.DE', 'FRE.DE', 'HNR1.DE', 'HEI.DE', 'HEN3.DE', 'IFX.DE', 'MBG.DE', 'MRK.DE', 'MTX.DE', 'MUV2.DE', 'P911.DE', 'PAH3.DE', 'QIA.DE', 'RHM.DE', 'RWE.DE', 'SAP.DE', 'SRT3.DE', 'SIE.DE', 'ENR.DE', 'SHL.DE', 'SY1.DE', 'VOW3.DE', 'VNA.DE', 'ZAL.DE']
+2023-05-20 10:09:20:WARNING:Non-existent ticker ADS.DEE or no data for given time interval
+2023-05-20 10:09:24:WARNING:Non-existent ticker BAYN.DEE or no data for given time interval
+2023-05-20 10:09:26:INFO:Successfully downloaded stocks ['AIR.DE', 'ALV.DE', 'BAS.DE', '1COV.DE']
+2023-05-20 10:11:31:WARNING:Non-existent ticker ADS.DEE or no data for given time interval
+2023-05-20 10:11:49:WARNING:Non-existent ticker ADS.DEE or no data for given time interval
+2023-05-20 10:12:19:WARNING:Non-existent ticker ADS.DEE or no data for given time interval
+2023-05-20 10:12:23:WARNING:Non-existent ticker BAYN.DEE or no data for given time interval
+2023-05-20 10:12:25:INFO:Successfully downloaded stocks ('AIR.DE', 'ALV.DE', 'BAS.DE', '1COV.DE')
+2023-05-20 10:15:05:INFO:Successfully downloaded stocks ('ADS.DE', 'AIR.DE', 'ALV.DE', 'BAS.DE', 'BAYN.DE', 'BEI.DE', 'BMW.DE', 'BNR.DE', 'CBK.DE', 'CON.DE', '1COV.DE', 'DTG.DE', 'DBK.DE', 'DB1.DE', 'DPW.DE', 'DTE.DE', 'EOAN.DE', 'FRE.DE', 'HNR1.DE', 'HEI.DE', 'HEN3.DE', 'IFX.DE', 'MBG.DE', 'MRK.DE', 'MTX.DE', 'MUV2.DE', 'P911.DE', 'PAH3.DE', 'QIA.DE', 'RHM.DE', 'RWE.DE', 'SAP.DE', 'SRT3.DE', 'SIE.DE', 'ENR.DE', 'SHL.DE', 'SY1.DE', 'VOW3.DE', 'VNA.DE', 'ZAL.DE')
+2023-05-20 10:26:29:INFO:['BNR.DE', '1COV.DE', 'DTG.DE', 'MTX.DE', 'P911.DE', 'PAH3.DE', 'ENR.DE', 'SHL.DE', 'SY1.DE', 'VNA.DE', 'ZAL.DE'] contain NA values. They are dropped from the dataframe
+2023-05-20 10:27:22:INFO:['BNR.DE', '1COV.DE', 'DTG.DE', 'MTX.DE', 'P911.DE', 'PAH3.DE', 'ENR.DE', 'SHL.DE', 'SY1.DE', 'VNA.DE', 'ZAL.DE'] contain NA values. They are dropped from the dataframe
+2023-05-20 10:35:50:INFO:DAX40 constituents loaded successfully
+2023-05-20 10:36:04:INFO:DAX40 constituents loaded successfully
+2023-05-20 10:48:18:INFO:DAX40 constituents loaded successfully
+2023-05-20 10:51:53:INFO:Successfully downloaded stocks ('ADS.DE', 'AIR.DE', 'ALV.DE', 'BAS.DE', 'BAYN.DE', 'BEI.DE', 'BMW.DE', 'BNR.DE', 'CBK.DE', 'CON.DE', '1COV.DE', 'DTG.DE', 'DBK.DE', 'DB1.DE', 'DPW.DE', 'DTE.DE', 'EOAN.DE', 'FRE.DE', 'HNR1.DE', 'HEI.DE', 'HEN3.DE', 'IFX.DE', 'MBG.DE', 'MRK.DE', 'MTX.DE', 'MUV2.DE', 'P911.DE', 'PAH3.DE', 'QIA.DE', 'RHM.DE', 'RWE.DE', 'SAP.DE', 'SRT3.DE', 'SIE.DE', 'ENR.DE', 'SHL.DE', 'SY1.DE', 'VOW3.DE', 'VNA.DE', 'ZAL.DE')
+2023-05-20 10:52:41:INFO:['BNR.DE', '1COV.DE', 'DTG.DE', 'MTX.DE', 'P911.DE', 'PAH3.DE', 'ENR.DE', 'SHL.DE', 'SY1.DE', 'VNA.DE', 'ZAL.DE'] contain NA values. They are dropped from the dataframe
