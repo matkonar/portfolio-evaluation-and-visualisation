@@ -34,3 +34,17 @@
 2023-06-07 19:49:03:INFO :DAX40 constituents loaded successfully
 2023-06-07 19:50:12:INFO :Successfully downloaded stocks ['ADS.DE', 'AIR.DE', 'ALV.DE', 'BAS.DE', 'BAYN.DE', 'BEI.DE', 'BMW.DE', 'BNR.DE', 'CBK.DE', 'CON.DE', '1COV.DE', 'DTG.DE', 'DBK.DE', 'DB1.DE', 'DPW.DE', 'DTE.DE', 'EOAN.DE', 'FRE.DE', 'HNR1.DE', 'HEI.DE', 'HEN3.DE', 'IFX.DE', 'MBG.DE', 'MRK.DE', 'MTX.DE', 'MUV2.DE', 'P911.DE', 'PAH3.DE', 'QIA.DE', 'RHM.DE', 'RWE.DE', 'SAP.DE', 'SRT3.DE', 'SIE.DE', 'ENR.DE', 'SHL.DE', 'SY1.DE', 'VOW3.DE', 'VNA.DE', 'ZAL.DE']
 2023-06-07 19:50:12:INFO :['BNR.DE', '1COV.DE', 'DTG.DE', 'MTX.DE', 'P911.DE', 'PAH3.DE', 'ENR.DE', 'SHL.DE', 'SY1.DE', 'VNA.DE', 'ZAL.DE'] contain NA values. They are dropped from the dataframe
+2023-06-10 14:38:50:INFO :DAX40 constituents loaded successfully
+2023-06-10 14:39:15:INFO :DAX40 constituents loaded successfully
+2023-06-10 14:39:24:INFO :DAX40 constituents loaded successfully
+2023-06-10 14:40:26:INFO :DAX40 constituents loaded successfully
+2023-06-10 14:41:23:INFO :DAX40 constituents loaded successfully
+2023-06-10 14:41:33:INFO :DAX40 constituents loaded successfully
+2023-06-10 14:43:40:INFO :DAX40 constituents loaded successfully
+2023-06-10 14:47:59:INFO :DAX40 constituents loaded successfully
+2023-06-10 15:30:47:INFO :Successfully downloaded stocks ['ADS.DE', 'AIR.DE', 'ALV.DE', 'BAS.DE', 'BAYN.DE', 'BEI.DE', 'BMW.DE', 'BNR.DE', 'CBK.DE', 'CON.DE', '1COV.DE', 'DTG.DE', 'DBK.DE', 'DB1.DE', 'DPW.DE', 'DTE.DE', 'EOAN.DE', 'FRE.DE', 'HNR1.DE', 'HEI.DE', 'HEN3.DE', 'IFX.DE', 'MBG.DE', 'MRK.DE', 'MTX.DE', 'MUV2.DE', 'P911.DE', 'PAH3.DE', 'QIA.DE', 'RHM.DE', 'RWE.DE', 'SAP.DE', 'SRT3.DE', 'SIE.DE', 'ENR.DE', 'SHL.DE', 'SY1.DE', 'VOW3.DE', 'VNA.DE', 'ZAL.DE']
+2023-06-10 15:34:56:INFO :Successfully downloaded stocks ['ADS.DE', 'AIR.DE', 'ALV.DE', 'BAS.DE', 'BAYN.DE', 'BEI.DE', 'BMW.DE', 'BNR.DE', 'CBK.DE', 'CON.DE', '1COV.DE', 'DTG.DE', 'DBK.DE', 'DB1.DE', 'DPW.DE', 'DTE.DE', 'EOAN.DE', 'FRE.DE', 'HNR1.DE', 'HEI.DE', 'HEN3.DE', 'IFX.DE', 'MBG.DE', 'MRK.DE', 'MTX.DE', 'MUV2.DE', 'P911.DE', 'PAH3.DE', 'QIA.DE', 'RHM.DE', 'RWE.DE', 'SAP.DE', 'SRT3.DE', 'SIE.DE', 'ENR.DE', 'SHL.DE', 'SY1.DE', 'VOW3.DE', 'VNA.DE', 'ZAL.DE']
+2023-06-10 15:40:35:INFO :['BNR.DE', '1COV.DE', 'DTG.DE', 'MTX.DE', 'P911.DE', 'PAH3.DE', 'ENR.DE', 'SHL.DE', 'SY1.DE', 'VNA.DE', 'ZAL.DE'] contain NA values. They are dropped from the dataframe
+2023-06-10 16:03:46:INFO :DAX40 constituents loaded successfully
+2023-06-10 16:04:20:INFO :Successfully downloaded stocks ['ADS.DE', 'AIR.DE', 'ALV.DE', 'BAS.DE', 'BAYN.DE', 'BEI.DE', 'BMW.DE', 'BNR.DE', 'CBK.DE', 'CON.DE', '1COV.DE', 'DTG.DE', 'DBK.DE', 'DB1.DE', 'DPW.DE', 'DTE.DE', 'EOAN.DE', 'FRE.DE', 'HNR1.DE', 'HEI.DE', 'HEN3.DE', 'IFX.DE', 'MBG.DE', 'MRK.DE', 'MTX.DE', 'MUV2.DE', 'P911.DE', 'PAH3.DE', 'QIA.DE', 'RHM.DE', 'RWE.DE', 'SAP.DE', 'SRT3.DE', 'SIE.DE', 'ENR.DE', 'SHL.DE', 'SY1.DE', 'VOW3.DE', 'VNA.DE', 'ZAL.DE']
+2023-06-10 16:04:21:INFO :['BNR.DE', '1COV.DE', 'DTG.DE', 'MTX.DE', 'P911.DE', 'PAH3.DE', 'ENR.DE', 'SHL.DE', 'SY1.DE', 'VNA.DE', 'ZAL.DE'] contain NA values. They are dropped from the dataframe
